@@ -1,0 +1,6 @@
+[submodule "3dparty/visdom"]
+	path = 3dparty/visdom
+	url = https://github.com/facebookresearch/visdom.git
+[submodule "3dparty/mxnet"]
+	path = 3dparty/mxnet
+	url = https://github.com/dmlc/mxnet.git
