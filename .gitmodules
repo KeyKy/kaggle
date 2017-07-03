@@ -4,3 +4,6 @@
 [submodule "3dparty/mxnet"]
 	path = 3dparty/mxnet
 	url = https://github.com/dmlc/mxnet.git
+[submodule "dlcommon"]
+	path = dlcommon
+	url = https://git.oschina.net/scutterkey/dlcommon.git
